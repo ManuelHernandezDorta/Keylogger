@@ -7,7 +7,7 @@ You must install pynput library
 ```bash
 pip install pynput
 ```
-If you can't install this stuff you can convert the script into a single .exe file by following this ['''video'''](https://www.youtube.com/watch?v=Vr9vl0qlggE) 
+If you can't install this stuff you can convert the script into a single .exe file by following this [video](https://www.youtube.com/watch?v=Vr9vl0qlggE) 
 
 
 ## Usage
