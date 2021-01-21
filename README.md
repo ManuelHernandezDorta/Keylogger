@@ -1,5 +1,6 @@
 # Keylogger
-A keylogger with email sending funtionality
+A keylogger with email sending funtionality<br>
+This repository is for educational purposes only
 
 ## Instalation 
 You must have python installed in the computer<br>
