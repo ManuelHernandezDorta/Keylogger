@@ -2,7 +2,7 @@
 A keylogger with email sending funtionality
 
 ## Instalation 
-You must have python installed in the computer
+You must have python installed in the computer<br>
 You must install pynput library
 ```bash
 pip install pynput
@@ -21,12 +21,12 @@ Password = 'Input the sender email account Password'
 
 ## Email permision
 
-If you just run the scipt it wont work, you have to give permission to unsafe application
+If you just run the scipt it wont work, you have to give permission to unsafe application<br>
 manage your account >> security >>unsafe application access >> yes
 
 ## How to close it
 
-The script will be completely invisible except in the application manager
+The script will be completely invisible except in the application manager<br>
 You can close the script by shutting down the computer or writting down (close keylogger) anywhere and it will stop executing as described in the following lines:
 ```
 elif str(key) == "Key.enter":
